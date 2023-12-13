@@ -4,6 +4,7 @@
 	- get Toolchain
 		From android git server , codesourcery and etc ..
 		 - aarch64-linux-android-4.9
+		https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/%2Barchive/refs/heads/pie-release.tar.gz
 
 	- edit Makefile
 		edit "CROSS_COMPILE" to right toolchain path(You downloaded).
