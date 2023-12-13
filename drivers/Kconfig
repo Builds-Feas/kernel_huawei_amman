@@ -229,7 +229,7 @@ source "drivers/hwusb/Kconfig"
 source "drivers/hwzerohung/Kconfig"
 
 source "drivers/devkit/lcdkit/Kconfig"
-source "drivers/hwfdleak/Kconfig
+source "drivers/hwfdleak/Kconfig"
 
 source "drivers/huawei/Kconfig"
 source "drivers/cpuload/Kconfig"
