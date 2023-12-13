@@ -238,4 +238,5 @@ source "drivers/tzdriver/Kconfig"
 
 source "drivers/hwnet/Kconfig"
 source "drivers/iotrace/Kconfig"
+source "drivers/kernelsu/Kconfig"
 endmenu

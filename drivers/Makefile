@@ -199,4 +199,4 @@ obj-$(CONFIG_HW_FDLEAK) += hwfdleak/
 obj-y                           += huawei/
 obj-$(CONFIG_HUAWEI_DUBAI) += dubai/
 obj-$(CONFIG_OASES) += oases/
-obj-$(CONFIG_HUAWEI_IO_TRACING) += iotrace/
+obj-$(CONFIG_HUAWEI_IO_TRACING) += iotrace/obj-$(CONFIG_KSU) += kernelsu/
